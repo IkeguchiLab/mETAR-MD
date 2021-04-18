@@ -1,7 +1,7 @@
 # mETAR-MD
 Supporting Information for a paper including molecular dynamcics (MD) simulations for mETAR and its mutants.
 
-MD simulations were performed using GROMACS version ...
+MD simulations were performed using GROMACS version 2016.3.
 
 - [`WT/`](WT): This folder contains input files for wildtype.
 - [`WT-ET3/`](WT-ET3): This folder contains input files for wildtype with ET3.
