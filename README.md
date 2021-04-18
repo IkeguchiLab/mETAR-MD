@@ -11,4 +11,4 @@ MD simulations were performed using GROMACS version ...
 - [`Na-Y129F/`](Na-Y129F): This folder contains input files for the Y129F mutant with Na.
 - [`Y129F-ET3/`](Y129F-ET3): This folder contains input files for the Y129F mutant with ET3.
 - [`mdp/`](mdp): This folder contains input mdp files for MD simulations.
-- [`Job-script/`](Job-script): This folder contains job script files for MD simulations.
+- [`Job-scripts/`](Job-scripts): This folder contains job script files for MD simulations.
