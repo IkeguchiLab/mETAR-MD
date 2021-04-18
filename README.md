@@ -1,5 +1,5 @@
 # mETAR-MD
-Supporting Information for a paper including molecular dynamcics (MD) simulations for mETAR and its mutants.
+Supporting Information for a paper including molecular dynamics (MD) simulations for mETAR and its mutants.
 
 MD simulations were performed using GROMACS version 2016.3.
 
